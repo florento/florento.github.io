@@ -1,13 +1,13 @@
  # source of homepage
 
 [GitHub Pages](https://pages.github.com/)
-for
-https://florent-jacquemard.github.io
+for https://florent-jacquemard.github.io  
+˜˜https://florent-jacquemard.github.io˜˜
 
 ### Sources
 
 ### Themes
-The page uses the (unique) theme of `resume-template`.
+The page uses the theme [Minimal](https://github.com/pages-themes/minimal) Jekyll theme for GitHub Pages.
 
 ### Test
 To test locally, run the following in your terminal:
