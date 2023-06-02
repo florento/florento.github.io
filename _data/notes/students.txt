@@ -1,0 +1,33 @@
+
+
+- name: Ankit Gupta
+  school: ENS Cachan
+
+
+2012: 
+(D2) Encadrement de 12 stages de L3, M1 ou projet de fin d’étude d’écoles d’ingénieur, dont 8 dans le cadre de projets bilatéraux avec la Tunisie.
+(CV) Encadrements de 12 stages de master de recherche, 
+14 stages de L3, M1 ou projet de fin d’étude d’écoles d’ingénieur, 
+dont 8 dans le cadre de projets bilatéraux.
+
+(AFIM) Encadrements de 13 stages de master de recherche, 
+15 stages de L3, M1 ou projet de fin d’étude d’écoles d’ingénieur,
+dont 8 dans le cadre de projets bilatéraux.
+
+
+
+- name:
+  duration:
+  title:
+  url: 
+  school:
+  alumni:
+  description: 
+
+- name:
+  duration:
+  title:
+  url: 
+  school:
+  alumni:
+  description: 
